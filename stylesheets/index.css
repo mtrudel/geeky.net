@@ -1,0 +1,26 @@
+body {
+    background: #8EABD2;
+    color: white;
+    text-align: center;
+    font-family: "Gill Sans", "Helvetica", sans-serif;
+    font-weight: 400;
+}
+
+.content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 450px
+}
+
+.title {
+    font-size: 3em;
+    margin: 0;
+}
+
+.body {
+    font-size: 1.25em;
+    margin: 0;
+}
